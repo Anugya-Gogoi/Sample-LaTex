@@ -1,2 +1,2 @@
 # Sample-LaTex
-Just a simple LaTex file
+Just a simple LaTex repo
